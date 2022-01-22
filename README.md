@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @SidrahAmin
+-     Here is What I'm currently working on 
+-  👋 Hi, I’m @SidrahAmin
 - 👀 I’m interested in web development,designing, android app development and graphic designing
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on development
